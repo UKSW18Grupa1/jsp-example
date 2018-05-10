@@ -1,6 +1,7 @@
 <html>
 <head><title>First JSP</title></head>
 <body>
+<p> Autor: Hubert Zembrowski </p>
   <%
     double num = Math.random();
     if (num > 0.95) {
