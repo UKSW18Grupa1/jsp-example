@@ -5,6 +5,7 @@
     double num = Math.random();
     if (num > 0.95) {
   %>
+  <p> Autor: Joanna Domanska </p>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
     } else {
