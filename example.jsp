@@ -14,5 +14,6 @@
     }
   %>
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
+<p> Autor: Adam Chabros </p>
 </body>
 </html>
