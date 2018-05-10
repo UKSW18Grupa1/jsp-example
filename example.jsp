@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>Well, life goes on ... </h2><p>(<%= num %>)</p><p> Patryk Leczycki</p>
+      <h2>Well, life goes on ... </h2><p>(<%= num %>)</p><p>Autor: Patryk Leczycki</p>
   <%
     }
   %>
